@@ -3,7 +3,8 @@ def mysql_connection():
     conn=mysql.connector.connect(
         host="localhost",
         user="root",
-        password="root123",
+        password="", 
         database="bank_system"
     )
     return conn
+
