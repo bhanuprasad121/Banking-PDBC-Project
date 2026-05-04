@@ -1,0 +1,351 @@
+spot_id,spot_name,country,city,category,average_cost_usd,rating,best_season,annual_visitors_millions
+1,Banff National Park,Canada,Alberta,Monument,2298.0,3.6,,
+2,Amazon Rainforest,Brazil,Amazon,Beach,1258.0,,Summer,4.0
+3,Big Ben London,UK,London,Monument,,4.6,Summer,10.9
+4,Phuket Beach,,,Monument,,3.5,Summer,4.8
+5,Great Wall of China,China,Beijing,Beach,1745.0,4.4,Summer,5.8
+6,Angkor Wat,Cambodia,Siem Reap,Monument,2042.0,3.8,,5.8
+7,Venice Canals,Italy,Venice,Beach,1042.0,4.1,Autumn,5.9
+8,Golden Gate Bridge,USA,San Francisco,Museum,4170.0,4.8,Winter,2.0
+9,,Indonesia,Bali,Nature,2439.0,4.8,Spring,1.0
+10,Mount Fuji,Japan,,Monument,936.0,3.9,Summer,9.2
+11,Amazon Rainforest,Brazil,Amazon,Historical,3178.0,4.6,Spring,
+12,Golden Gate Bridge,USA,San Francisco,Historical,3605.0,4.6,Summer,9.7
+13,Petra Jordan,Jordan,Wadi Musa,Historical,948.0,4.9,Autumn,
+14,Louvre Museum,France,Paris,Nature,4455.0,4.2,Winter,9.8
+15,Eiffel Tower,France,Paris,Monument,1838.0,4.5,Summer,
+16,,India,Goa,,1367.0,4.5,Spring,9.1
+17,Venice Canals,Italy,Venice,Monument,2197.0,3.7,,6.3
+18,Petra Jordan,Jordan,Wadi Musa,Museum,1270.0,5.0,Winter,9.3
+19,Niagara Falls,Canada,Ontario,Historical,4470.0,,Summer,7.2
+20,Great Barrier Reef,Australia,Queensland,Adventure,,,Winter,
+21,Petra Jordan,Jordan,Wadi Musa,Historical,4518.0,5.0,Autumn,8.0
+22,Big Ben London,UK,London,Beach,1357.0,,,13.1
+23,Phuket Beach,Thailand,,,2964.0,3.7,Winter,
+24,Great Barrier Reef,Australia,Queensland,Nature,1726.0,4.2,Spring,0.5
+25,Machu Picchu,Peru,Cusco,Museum,874.0,,Summer,2.8
+26,Times Square NYC,USA,New York,Monument,4016.0,4.7,Autumn,6.4
+27,Goa Beach,India,Goa,Beach,3081.0,3.7,,3.3
+28,Mount Everest Base Camp,Nepal,Khumbu,Monument,1133.0,4.7,Summer,
+29,Amazon Rainforest,Brazil,Amazon,Nature,4133.0,4.2,Winter,5.4
+30,Phuket Beach,Thailand,Phuket,Monument,,4.8,Autumn,1.4
+31,Goa Beach,India,Goa,,4171.0,4.2,Winter,2.5
+32,Goa Beach,India,Goa,,4327.0,3.6,Summer,4.6
+33,Statue of Liberty,USA,New York,Monument,4055.0,3.8,Autumn,1.6
+34,Colosseum Rome,Italy,Rome,Adventure,1573.0,,Autumn,14.3
+35,,Switzerland,Zermatt,Museum,1100.0,3.7,Summer,13.9
+36,Louvre Museum,France,Paris,Adventure,2569.0,4.3,Winter,8.2
+37,Mount Everest Base Camp,Nepal,Khumbu,Historical,3552.0,4.9,Spring,13.6
+38,Venice Canals,Italy,Venice,Historical,4733.0,4.5,Summer,5.3
+39,Grand Canyon,USA,Arizona,Historical,4668.0,4.4,,4.3
+40,Phuket Beach,,Phuket,Beach,1098.0,4.6,Autumn,3.6
+41,Central Park NYC,,New York,Museum,2853.0,4.8,Winter,5.0
+42,Swiss Alps Resort,Switzerland,Zermatt,Beach,1261.0,,Winter,7.5
+43,,UK,London,Nature,,4.6,Winter,4.2
+44,Maldives Coral Island,Maldives,Male,,1189.0,4.6,Summer,3.5
+45,Mount Fuji,Japan,Tokyo,Museum,4078.0,4.8,Autumn,6.5
+46,Taj Mahal,India,Agra,Nature,2558.0,4.2,,
+47,,Maldives,Male,Monument,4159.0,3.6,Spring,13.5
+48,Sydney Opera House,Australia,Sydney,Nature,783.0,4.1,Autumn,7.9
+49,Santorini Beach,Greece,Santorini,Museum,4203.0,4.2,Autumn,6.0
+50,Grand Canyon,USA,,Monument,1135.0,4.2,Winter,12.9
+51,Amazon Rainforest,Brazil,Amazon,City Life,4197.0,4.6,Winter,8.1
+52,,Switzerland,Zermatt,City Life,859.0,4.4,Winter,11.3
+53,Colosseum Rome,Italy,Rome,Museum,4710.0,,Summer,8.9
+54,Central Park NYC,USA,New York,Museum,3153.0,3.8,Summer,13.9
+55,Statue of Liberty,USA,New York,Beach,3679.0,4.9,Autumn,8.4
+56,Petra Jordan,Jordan,Wadi Musa,Historical,3914.0,4.9,Spring,14.3
+57,Maldives Coral Island,Maldives,Male,Beach,,4.0,Summer,14.1
+58,Colosseum Rome,Italy,Rome,Nature,4327.0,4.6,Spring,11.1
+59,Venice Canals,Italy,,,2939.0,4.4,Summer,
+60,,USA,New York,,4071.0,3.6,Summer,3.4
+61,Sydney Opera House,Australia,Sydney,Adventure,4292.0,4.7,Summer,3.2
+62,Big Ben London,,London,City Life,1619.0,3.9,,8.8
+63,Bali Island,Indonesia,Bali,Monument,2315.0,4.8,Autumn,5.6
+64,Goa Beach,India,Goa,City Life,2371.0,4.9,Autumn,3.7
+65,Central Park NYC,USA,New York,Museum,1389.0,3.6,Winter,1.5
+66,Phuket Beach,,Phuket,,3288.0,,Autumn,1.0
+67,Bali Island,Indonesia,Bali,Historical,4553.0,4.6,Winter,12.2
+68,Sydney Opera House,Australia,Sydney,City Life,,3.6,Spring,10.3
+69,Machu Picchu,Peru,Cusco,Museum,4167.0,4.3,Summer,1.0
+70,Bali Island,Indonesia,Bali,Historical,3123.0,4.5,Autumn,1.2
+71,Swiss Alps Resort,,Zermatt,Museum,,,Summer,14.1
+72,Maldives Coral Island,Maldives,,Beach,744.0,4.7,Winter,7.3
+73,,USA,New York,Monument,3830.0,4.4,Summer,1.5
+74,Angkor Wat,Cambodia,,Museum,3994.0,3.9,Winter,10.5
+75,Taj Mahal,India,Agra,,3899.0,3.7,Summer,5.9
+76,Santorini Beach,Greece,,Adventure,1337.0,4.3,Winter,1.6
+77,,Canada,Ontario,,865.0,4.2,,4.8
+78,Burj Khalifa,UAE,,Adventure,,3.7,Summer,
+79,Santorini Beach,,Santorini,Historical,4475.0,4.7,Spring,5.1
+80,Venice Canals,Italy,Venice,Museum,1074.0,4.5,,9.2
+81,Grand Canyon,,Arizona,Museum,,4.8,Spring,2.6
+82,Amazon Rainforest,Brazil,Amazon,City Life,886.0,4.0,Winter,
+83,Central Park NYC,USA,New York,City Life,3948.0,3.7,Summer,1.2
+84,Eiffel Tower,France,Paris,Monument,3117.0,4.7,Autumn,
+85,,Nepal,Khumbu,Museum,3114.0,3.7,Winter,13.3
+86,Machu Picchu,Peru,Cusco,Beach,4246.0,3.8,Winter,13.9
+87,Grand Canyon,USA,Arizona,Beach,3243.0,4.5,Summer,10.9
+88,Great Barrier Reef,Australia,Queensland,Nature,2112.0,4.5,Spring,0.6
+89,Amazon Rainforest,Brazil,Amazon,Adventure,874.0,4.0,Spring,9.3
+90,Golden Gate Bridge,USA,San Francisco,Historical,1512.0,4.7,Spring,3.5
+91,Phuket Beach,Thailand,,City Life,4439.0,3.7,Spring,4.8
+92,Colosseum Rome,Italy,Rome,Beach,1383.0,4.4,,13.4
+93,Santorini Beach,Greece,Santorini,Historical,2882.0,3.8,Summer,1.3
+94,Statue of Liberty,USA,New York,Monument,3936.0,4.8,Summer,5.8
+95,Louvre Museum,France,Paris,Museum,797.0,4.5,Spring,6.4
+96,Grand Canyon,USA,Arizona,Beach,4895.0,3.9,,4.0
+97,,China,Beijing,Beach,3254.0,4.6,Spring,9.6
+98,Amazon Rainforest,Brazil,Amazon,Nature,3509.0,4.8,Spring,1.4
+99,Statue of Liberty,USA,New York,Museum,3870.0,,Spring,7.9
+100,Louvre Museum,France,Paris,Historical,,4.7,Autumn,1.9
+101,Mount Everest Base Camp,Nepal,Khumbu,Museum,3663.0,4.4,Autumn,11.6
+102,Eiffel Tower,,,Museum,1534.0,3.9,Summer,6.0
+103,Banff National Park,Canada,Alberta,City Life,4948.0,4.0,Summer,9.9
+104,Table Mountain,South Africa,Cape Town,Historical,1713.0,3.7,Summer,5.5
+105,Great Barrier Reef,Australia,Queensland,City Life,3669.0,4.9,Spring,9.4
+106,Machu Picchu,Peru,Cusco,Nature,2918.0,3.6,Summer,8.3
+107,Maldives Coral Island,Maldives,Male,Historical,1920.0,4.3,Autumn,
+108,Petra Jordan,Jordan,Wadi Musa,Museum,1529.0,3.8,Winter,14.6
+109,,Australia,Queensland,Adventure,4736.0,4.1,Spring,8.3
+110,Central Park NYC,USA,New York,Nature,3861.0,4.7,Winter,4.8
+111,Venice Canals,Italy,Venice,,3534.0,4.5,Winter,3.5
+112,Bali Island,Indonesia,Bali,Adventure,4275.0,,Summer,11.7
+113,Eiffel Tower,France,,Historical,3796.0,3.5,Autumn,8.5
+114,Table Mountain,,Cape Town,Museum,3947.0,3.6,Autumn,12.4
+115,Amazon Rainforest,Brazil,,Adventure,4370.0,3.7,Spring,6.4
+116,Statue of Liberty,USA,New York,Beach,3033.0,4.3,Summer,
+117,Sydney Opera House,Australia,Sydney,Monument,,4.1,Summer,9.8
+118,Swiss Alps Resort,Switzerland,,Monument,3996.0,4.5,Summer,
+119,Sydney Opera House,Australia,Sydney,Monument,2384.0,5.0,Summer,8.2
+120,Great Barrier Reef,Australia,Queensland,Historical,2563.0,3.6,Summer,14.2
+121,Goa Beach,India,Goa,Beach,4869.0,4.4,Spring,13.9
+122,Central Park NYC,USA,New York,City Life,1399.0,3.8,Winter,0.5
+123,Petra Jordan,Jordan,Wadi Musa,Monument,2563.0,3.9,,2.2
+124,,Australia,Sydney,Historical,1037.0,3.8,,3.5
+125,Sydney Opera House,Australia,,,777.0,,Winter,3.5
+126,Maldives Coral Island,Maldives,Male,Nature,4453.0,4.0,Spring,13.8
+127,Statue of Liberty,USA,New York,Monument,,,Winter,
+128,Great Wall of China,China,Beijing,Adventure,2406.0,3.8,Autumn,0.9
+129,,Japan,Tokyo,Historical,3165.0,4.3,Spring,14.3
+130,Maldives Coral Island,Maldives,Male,Historical,,4.4,Winter,2.5
+131,Central Park NYC,USA,New York,Museum,1164.0,4.3,Spring,5.9
+132,Mount Everest Base Camp,,Khumbu,City Life,,5.0,Winter,8.5
+133,Golden Gate Bridge,USA,San Francisco,Adventure,4810.0,4.0,Autumn,9.0
+134,Burj Khalifa,UAE,Dubai,City Life,1220.0,4.3,Spring,8.2
+135,Santorini Beach,,Santorini,,4790.0,4.3,Spring,
+136,Taj Mahal,India,Agra,Monument,4533.0,,Summer,9.4
+137,Phuket Beach,Thailand,Phuket,Beach,978.0,5.0,,3.9
+138,Table Mountain,South Africa,,Nature,,4.4,Summer,7.5
+139,Petra Jordan,Jordan,Wadi Musa,City Life,4042.0,4.5,Winter,14.0
+140,Sydney Opera House,,,Beach,1572.0,,Winter,4.9
+141,Grand Canyon,USA,Arizona,Museum,2538.0,4.7,Summer,4.1
+142,Golden Gate Bridge,USA,San Francisco,Nature,,3.9,Winter,3.3
+143,Eiffel Tower,France,,Monument,2891.0,3.9,Summer,5.5
+144,Mount Everest Base Camp,,Khumbu,Museum,,3.8,Autumn,7.1
+145,Golden Gate Bridge,,San Francisco,Historical,2942.0,4.0,Autumn,5.6
+146,Petra Jordan,Jordan,Wadi Musa,Beach,4689.0,4.3,Summer,11.3
+147,Taj Mahal,India,Agra,Beach,2190.0,4.2,Spring,3.2
+148,Central Park NYC,USA,New York,Museum,1264.0,4.9,Spring,1.6
+149,Louvre Museum,France,Paris,Museum,,3.9,Summer,6.3
+150,Niagara Falls,Canada,Ontario,Historical,3407.0,3.5,,4.2
+151,Statue of Liberty,USA,New York,Beach,3001.0,4.9,,
+152,Times Square NYC,USA,New York,Adventure,4756.0,4.0,Autumn,7.5
+153,Venice Canals,,Venice,Historical,3962.0,3.9,,10.1
+154,Santorini Beach,Greece,,Museum,1367.0,4.1,Autumn,5.0
+155,Louvre Museum,France,,Historical,1082.0,,Summer,11.8
+156,Big Ben London,,London,Monument,2070.0,5.0,Autumn,8.1
+157,Phuket Beach,Thailand,Phuket,Museum,2173.0,4.7,Winter,
+158,Colosseum Rome,Italy,,Beach,3543.0,4.3,Autumn,7.8
+159,,France,Paris,Museum,3333.0,3.9,Autumn,
+160,Venice Canals,Italy,Venice,Adventure,3802.0,4.3,Winter,
+161,Grand Canyon,USA,Arizona,Beach,2258.0,,Spring,5.8
+162,Taj Mahal,India,Agra,Historical,2040.0,4.4,,6.7
+163,Swiss Alps Resort,Switzerland,Zermatt,Beach,2371.0,3.6,Summer,2.9
+164,Eiffel Tower,France,Paris,Historical,2011.0,4.6,Winter,6.8
+165,Times Square NYC,USA,New York,,4898.0,3.7,Summer,1.7
+166,Eiffel Tower,France,Paris,,1196.0,4.5,Autumn,10.6
+167,Niagara Falls,Canada,Ontario,Beach,1820.0,4.3,Spring,0.6
+168,Maldives Coral Island,Maldives,Male,Monument,4934.0,3.8,Autumn,
+169,Burj Khalifa,UAE,Dubai,Museum,3462.0,4.0,Spring,4.5
+170,Burj Khalifa,,Dubai,Beach,3867.0,4.6,Summer,11.5
+171,Times Square NYC,USA,New York,Monument,3473.0,4.7,,4.4
+172,Banff National Park,Canada,Alberta,,,4.1,Winter,10.4
+173,Central Park NYC,USA,New York,Beach,1050.0,4.4,Spring,9.4
+174,Burj Khalifa,UAE,Dubai,Adventure,3796.0,4.3,Winter,4.2
+175,Louvre Museum,France,Paris,Adventure,925.0,,Summer,13.6
+176,Maldives Coral Island,Maldives,Male,,2643.0,3.9,,8.9
+177,,Peru,Cusco,Historical,2334.0,3.8,Spring,1.6
+178,Goa Beach,India,Goa,Historical,3153.0,4.9,Summer,9.8
+179,Great Barrier Reef,Australia,Queensland,,2351.0,4.4,Spring,11.9
+180,Venice Canals,Italy,Venice,Historical,1199.0,4.3,Winter,10.2
+181,Phuket Beach,Thailand,Phuket,Museum,4287.0,4.1,Spring,
+182,Sydney Opera House,Australia,Sydney,Monument,,,Autumn,14.1
+183,Angkor Wat,Cambodia,,Historical,3685.0,4.0,Summer,7.5
+184,Table Mountain,South Africa,Cape Town,Monument,4819.0,3.8,Winter,13.7
+185,Burj Khalifa,UAE,Dubai,Monument,2309.0,,Autumn,9.0
+186,Times Square NYC,USA,New York,City Life,1232.0,4.7,Summer,7.7
+187,Mount Fuji,Japan,Tokyo,,,4.8,Spring,13.4
+188,,UK,London,,2905.0,4.0,Autumn,3.9
+189,Phuket Beach,Thailand,Phuket,Monument,4698.0,4.4,Summer,2.2
+190,Mount Fuji,Japan,Tokyo,,1349.0,3.9,Spring,1.4
+191,Grand Canyon,USA,Arizona,Museum,4951.0,3.9,Autumn,0.8
+192,Maldives Coral Island,Maldives,Male,Museum,1067.0,,Autumn,1.3
+193,Bali Island,Indonesia,Bali,Historical,,4.9,Winter,4.2
+194,Phuket Beach,Thailand,Phuket,Monument,1657.0,4.9,Autumn,4.1
+195,Banff National Park,Canada,Alberta,City Life,3742.0,4.1,Spring,11.2
+196,Mount Everest Base Camp,Nepal,Khumbu,Beach,2491.0,4.1,Summer,11.1
+197,Angkor Wat,Cambodia,Siem Reap,City Life,4806.0,4.0,Spring,7.3
+198,Swiss Alps Resort,Switzerland,Zermatt,City Life,,4.0,Winter,5.8
+199,Maldives Coral Island,Maldives,Male,,4798.0,4.3,Autumn,1.8
+200,Central Park NYC,USA,New York,City Life,2218.0,4.4,Winter,4.5
+201,Mount Everest Base Camp,Nepal,Khumbu,Museum,1826.0,4.3,Winter,9.0
+202,Golden Gate Bridge,USA,San Francisco,City Life,2480.0,4.2,Spring,7.2
+203,Banff National Park,Canada,Alberta,Monument,1840.0,4.3,Spring,2.2
+204,,China,Beijing,Monument,3741.0,,Summer,8.4
+205,Amazon Rainforest,,Amazon,Adventure,2169.0,4.5,Summer,2.1
+206,Petra Jordan,Jordan,Wadi Musa,City Life,,4.0,,10.2
+207,,Switzerland,Zermatt,Beach,1746.0,4.3,Autumn,12.4
+208,Colosseum Rome,Italy,Rome,City Life,3462.0,4.9,Spring,1.8
+209,Niagara Falls,Canada,Ontario,,1148.0,3.7,Winter,10.0
+210,,USA,San Francisco,Monument,1831.0,4.4,Autumn,7.3
+211,Machu Picchu,Peru,Cusco,Monument,4379.0,4.5,,1.6
+212,Goa Beach,India,Goa,City Life,1702.0,3.6,Spring,2.9
+213,,Australia,,Monument,2055.0,4.1,Summer,3.4
+214,,India,Goa,,2580.0,4.3,Winter,5.0
+215,Venice Canals,Italy,Venice,City Life,3140.0,4.0,Spring,9.4
+216,Niagara Falls,Canada,Ontario,,1761.0,4.1,Winter,12.7
+217,Table Mountain,South Africa,,Monument,3287.0,3.7,Summer,6.0
+218,Swiss Alps Resort,Switzerland,Zermatt,Beach,933.0,4.7,Summer,4.0
+219,Table Mountain,South Africa,Cape Town,Beach,,4.6,Spring,4.1
+220,Phuket Beach,Thailand,Phuket,City Life,2743.0,,Winter,5.1
+221,Taj Mahal,India,Agra,Historical,4564.0,4.1,Summer,10.5
+222,,Nepal,Khumbu,Nature,4364.0,3.9,Spring,5.7
+223,Machu Picchu,,Cusco,Adventure,946.0,4.7,Winter,
+224,Niagara Falls,Canada,Ontario,,3535.0,4.7,Summer,3.2
+225,Great Barrier Reef,Australia,Queensland,Monument,3669.0,,Spring,13.2
+226,Colosseum Rome,Italy,Rome,Monument,3891.0,3.6,Spring,10.9
+227,Venice Canals,Italy,Venice,,917.0,4.4,,
+228,Phuket Beach,Thailand,Phuket,Museum,2294.0,3.6,Summer,5.7
+229,Goa Beach,India,Goa,Nature,2821.0,,Summer,1.7
+230,Mount Fuji,Japan,Tokyo,Monument,766.0,3.8,Summer,6.7
+231,Central Park NYC,USA,New York,City Life,4348.0,4.5,Autumn,12.0
+232,Maldives Coral Island,Maldives,,Monument,3618.0,4.7,Winter,2.1
+233,Amazon Rainforest,Brazil,Amazon,City Life,2130.0,4.0,Autumn,
+234,Sydney Opera House,Australia,Sydney,,,4.6,Summer,10.7
+235,Golden Gate Bridge,USA,San Francisco,Museum,2543.0,4.9,Summer,
+236,,Canada,Ontario,City Life,1968.0,4.4,Winter,3.6
+237,,USA,New York,,1034.0,4.9,Autumn,15.0
+238,Santorini Beach,,Santorini,Nature,4992.0,4.1,Winter,7.0
+239,Taj Mahal,India,Agra,City Life,2993.0,4.8,Summer,11.9
+240,Santorini Beach,Greece,Santorini,Beach,4589.0,3.6,Spring,1.7
+241,Louvre Museum,France,Paris,Adventure,2093.0,,Winter,7.9
+242,,China,Beijing,City Life,4059.0,4.4,Spring,3.6
+243,Great Wall of China,China,Beijing,Adventure,4956.0,4.5,Spring,1.1
+244,Bali Island,Indonesia,,Historical,3216.0,4.4,,14.9
+245,Eiffel Tower,,Paris,Beach,,4.4,Spring,2.4
+246,Phuket Beach,Thailand,Phuket,Beach,1348.0,,,4.1
+247,Statue of Liberty,USA,New York,Adventure,3955.0,4.7,Autumn,3.9
+248,Mount Everest Base Camp,Nepal,Khumbu,Adventure,1988.0,4.9,Autumn,8.9
+249,Golden Gate Bridge,USA,San Francisco,,1688.0,4.2,Spring,8.2
+250,Bali Island,Indonesia,Bali,,2996.0,3.8,,
+251,Great Wall of China,,Beijing,Historical,4977.0,,Autumn,0.8
+252,Golden Gate Bridge,USA,San Francisco,Nature,4716.0,,Autumn,13.5
+253,Bali Island,Indonesia,Bali,Monument,3294.0,5.0,Summer,11.2
+254,Central Park NYC,USA,New York,Nature,3227.0,4.7,Summer,6.2
+255,Niagara Falls,Canada,Ontario,Historical,2638.0,4.4,,3.9
+256,Petra Jordan,Jordan,Wadi Musa,Nature,1006.0,3.9,Spring,13.8
+257,Swiss Alps Resort,Switzerland,Zermatt,Nature,,3.5,Spring,9.4
+258,Great Wall of China,China,Beijing,Adventure,1570.0,3.5,Winter,8.5
+259,,Thailand,Phuket,Historical,2439.0,4.4,Summer,14.4
+260,Great Barrier Reef,Australia,Queensland,Adventure,4648.0,4.5,,3.4
+261,Mount Everest Base Camp,Nepal,Khumbu,Beach,1290.0,3.9,Winter,7.4
+262,Golden Gate Bridge,USA,San Francisco,Monument,3250.0,4.8,Spring,14.7
+263,Niagara Falls,Canada,Ontario,Museum,4170.0,4.3,Summer,10.7
+264,Maldives Coral Island,Maldives,Male,Monument,1601.0,3.8,Summer,4.3
+265,Golden Gate Bridge,USA,San Francisco,Beach,4951.0,4.2,Spring,
+266,Angkor Wat,Cambodia,Siem Reap,City Life,,3.5,Summer,6.9
+267,Grand Canyon,,Arizona,Historical,3609.0,4.0,Autumn,5.0
+268,Angkor Wat,Cambodia,Siem Reap,Monument,4502.0,4.8,Spring,3.1
+269,Bali Island,Indonesia,Bali,Nature,4459.0,3.8,Spring,
+270,Big Ben London,,London,,2893.0,4.8,Spring,14.7
+271,Swiss Alps Resort,Switzerland,Zermatt,Historical,1171.0,4.9,Autumn,7.9
+272,Taj Mahal,India,Agra,Historical,4745.0,4.4,Spring,11.6
+273,Colosseum Rome,Italy,Rome,Beach,4586.0,4.8,Autumn,1.2
+274,Times Square NYC,USA,New York,Adventure,3568.0,3.6,Spring,9.9
+275,Statue of Liberty,,New York,Historical,4653.0,4.3,Summer,3.8
+276,Colosseum Rome,Italy,Rome,Historical,3076.0,,Autumn,6.2
+277,Great Wall of China,China,Beijing,Adventure,,4.7,Spring,7.1
+278,Bali Island,Indonesia,Bali,,1937.0,,Winter,3.6
+279,Mount Everest Base Camp,Nepal,Khumbu,Museum,1595.0,4.3,Summer,3.0
+280,Bali Island,Indonesia,,Beach,3014.0,4.6,Autumn,13.2
+281,Swiss Alps Resort,Switzerland,Zermatt,Museum,3329.0,4.0,Spring,11.8
+282,Mount Everest Base Camp,Nepal,Khumbu,Adventure,1680.0,3.7,Winter,6.7
+283,,Japan,Tokyo,Historical,4474.0,3.5,Summer,4.0
+284,Swiss Alps Resort,Switzerland,Zermatt,Nature,1658.0,4.8,Winter,5.2
+285,Central Park NYC,USA,New York,Nature,4548.0,3.6,Spring,14.6
+286,Big Ben London,UK,London,Historical,3376.0,4.7,Winter,
+287,,Canada,Ontario,Beach,3697.0,5.0,Summer,3.1
+288,Statue of Liberty,USA,New York,Historical,2375.0,,Summer,8.2
+289,Goa Beach,India,Goa,Historical,2233.0,4.7,Spring,13.2
+290,Great Barrier Reef,Australia,Queensland,Monument,3002.0,4.3,Summer,1.1
+291,Venice Canals,Italy,Venice,Monument,1311.0,4.8,Autumn,8.1
+292,Mount Everest Base Camp,,,City Life,3537.0,4.5,Summer,4.8
+293,Sydney Opera House,Australia,,City Life,871.0,4.0,Spring,10.6
+294,Phuket Beach,Thailand,Phuket,Historical,,4.6,Winter,13.0
+295,Louvre Museum,,Paris,Nature,2607.0,3.6,,2.5
+296,Banff National Park,,Alberta,Museum,,3.9,Winter,2.0
+297,Sydney Opera House,Australia,Sydney,Beach,1273.0,4.1,Winter,14.7
+298,Amazon Rainforest,Brazil,Amazon,Historical,4838.0,3.8,Winter,11.2
+299,Great Barrier Reef,Australia,Queensland,Historical,,4.4,Winter,14.8
+300,Big Ben London,UK,London,Nature,1420.0,4.8,Autumn,11.3
+301,Table Mountain,South Africa,Cape Town,Historical,2227.0,3.7,Spring,11.8
+302,Big Ben London,UK,London,Historical,3734.0,3.6,Spring,12.8
+303,Banff National Park,Canada,Alberta,Adventure,2814.0,4.5,Autumn,6.4
+304,Venice Canals,Italy,Venice,Monument,4589.0,3.7,,14.7
+305,Great Wall of China,China,Beijing,Beach,3067.0,4.1,Winter,7.9
+306,Statue of Liberty,USA,New York,Adventure,4600.0,4.9,Autumn,3.2
+307,Sydney Opera House,Australia,Sydney,Monument,2821.0,3.5,Winter,12.8
+308,Great Wall of China,China,Beijing,Adventure,1216.0,3.7,,8.5
+309,Louvre Museum,France,Paris,Adventure,751.0,4.9,Spring,4.3
+310,Big Ben London,UK,London,Nature,4685.0,4.2,Autumn,9.4
+311,,India,Agra,Museum,1001.0,4.7,Spring,13.5
+312,,India,Agra,Adventure,1024.0,4.9,Winter,13.5
+313,Amazon Rainforest,Brazil,Amazon,Adventure,4474.0,4.5,Summer,3.4
+314,Maldives Coral Island,,Male,Beach,734.0,,,1.4
+315,Taj Mahal,India,Agra,Historical,4832.0,3.7,Autumn,13.5
+316,Angkor Wat,Cambodia,,Monument,4171.0,3.9,Winter,4.6
+317,Goa Beach,India,Goa,Monument,4168.0,4.6,Summer,12.7
+318,Santorini Beach,Greece,,Beach,3416.0,4.1,Winter,4.0
+319,Swiss Alps Resort,Switzerland,Zermatt,Monument,966.0,3.8,,14.4
+320,Venice Canals,Italy,,Historical,3269.0,4.9,Autumn,11.4
+321,Mount Everest Base Camp,Nepal,Khumbu,Beach,3721.0,4.4,Spring,9.6
+322,Angkor Wat,Cambodia,Siem Reap,Museum,2137.0,3.8,Winter,1.5
+323,Mount Fuji,Japan,Tokyo,Beach,875.0,4.1,Autumn,3.9
+324,Grand Canyon,USA,Arizona,Adventure,2469.0,5.0,Autumn,10.3
+325,Times Square NYC,USA,New York,Beach,2377.0,4.3,Summer,14.6
+326,,Peru,Cusco,Beach,4424.0,3.9,Autumn,
+327,Machu Picchu,Peru,Cusco,,3742.0,3.8,Winter,1.3
+328,Sydney Opera House,Australia,Sydney,Nature,1876.0,3.6,Winter,14.5
+329,Central Park NYC,USA,New York,Monument,,4.2,Spring,2.2
+330,Swiss Alps Resort,,Zermatt,Adventure,959.0,4.6,Winter,1.7
+331,Mount Fuji,Japan,Tokyo,Historical,3647.0,3.9,Summer,8.0
+332,Times Square NYC,USA,New York,Nature,4142.0,3.8,Summer,8.7
+333,,USA,New York,Adventure,4068.0,4.2,Autumn,12.2
+334,Sydney Opera House,Australia,,Adventure,943.0,3.6,Summer,12.8
+335,Grand Canyon,USA,Arizona,Nature,1130.0,4.8,Winter,12.1
+336,Mount Everest Base Camp,Nepal,Khumbu,Nature,3518.0,4.7,Summer,5.0
+337,Great Wall of China,China,Beijing,Historical,4330.0,4.6,Winter,
+338,Burj Khalifa,UAE,Dubai,Nature,4657.0,4.0,Spring,3.4
+339,Taj Mahal,India,Agra,Historical,4888.0,4.2,Winter,5.0
+340,,Australia,Queensland,Beach,1266.0,5.0,Winter,11.5
+341,Great Wall of China,China,Beijing,Historical,4283.0,4.2,Summer,
+342,Niagara Falls,Canada,Ontario,Adventure,4918.0,4.6,Spring,1.4
+343,Phuket Beach,Thailand,Phuket,Historical,4780.0,4.2,Spring,4.1
+344,Mount Everest Base Camp,Nepal,Khumbu,Historical,4001.0,4.7,Winter,1.4
+345,,,Amazon,,1335.0,4.1,Winter,13.2
+346,Mount Everest Base Camp,,Khumbu,Historical,2463.0,4.8,Summer,5.0
+347,Big Ben London,,,Museum,2371.0,,Spring,4.4
+348,Santorini Beach,Greece,Santorini,Beach,2049.0,3.9,Spring,4.4
+349,Central Park NYC,USA,New York,Adventure,2935.0,3.9,,3.1
+350,Venice Canals,,,Nature,1613.0,4.4,Summer,
